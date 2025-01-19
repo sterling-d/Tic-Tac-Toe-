@@ -36,9 +36,18 @@ Player X wins! Womp womp for Player O.
 <img width="1317" alt="Screenshot 2025-01-19 at 1 33 17 PM" src="https://github.com/user-attachments/assets/716e0b70-b563-405a-9e02-d6d2e5b02f0d" />
 
 
+---
 
 ## Contributors
 
 Name: Sterling Davis 
 Email: sterlingdayvis@gmail.com
 LinkedIn: www.linkedin.com/in/sterlingdavis1
+
+---
+
+## License
+
+MIT
+
+
